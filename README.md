@@ -1,5 +1,5 @@
 # Claude中文版入口：克劳德 国内免费直连指南（支持Claude 4 Sonnet、Claude 4 Sonnet、Gemini 2.5 Pro、DeepSeek，无需翻墙）【8月最新】
-**更新时间：2025/08/03**
+**更新时间：2025/08/17**
 
 ## 什么是 Claude 中文版？
 

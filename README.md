@@ -1,5 +1,5 @@
 # Claude中文版入口：克劳德 国内免费直连指南（支持Claude 4 Sonnet、Claude 4 Sonnet、Gemini 2.5 Pro、DeepSeek，无需翻墙）【9月最新】
-**更新时间：2025/09/15**
+**更新时间：2025/09/21**
 
 ## 什么是 Claude 中文版？
 
@@ -16,7 +16,7 @@ Claude中文版是由Anthropic公司研发的Claude模型的本地化适配版�
 
 [https://xsimplechat.com](https://xsimplechat.com)
 
-[https://chat.lanjingai.org](https://chat.lanjingai.org)
+[https://ai.lanjingai.org](https://ai.lanjingai.org)
 
 ---
 
@@ -26,8 +26,8 @@ Claude中文版是由Anthropic公司研发的Claude模型的本地化适配版�
 
 | 推荐站点地址                          | 支持模型                                     | 免费额度 | 注册方式       | 稳定性 | 功能亮点                                                                 |
 |--------------------------------------|---------------------------------------------|----------|----------------|--------|--------------------------------------------------------------------------|
-| [https://xsimplechat.com](https://xsimplechat.com) | Claude 3.7 Opus/Sonnet/Haiku、Claude 4 Sonnet、GPT-4.5、GPT o1、DeepSeek R1、Grok-3、AI绘画、AI PPT  | 有       | 支持国内邮箱   | ★★★★★ | 支持最新Claude 3系列，体验全能AI写作、代码和图片等多项功能                     |
-| [https://chat.lanjingai.org](https://chat.lanjingai.org) | Claude 4 Sonnet、GPT-4.0 turbo、Grok、Gemini、AI读文件 | 有       | 支持国内邮箱   | ★★★★★ | 多AI模型自由切换，丰富插件体验，AI PPT功能提升效率                             |
+| [https://xsimplechat.com](https://xsimplechat.com) | Claude 3.7 Opus/Sonnet/Haiku、Claude 4 Sonnet、GPT-4.5、Gemini、GPT o1、DeepSeek R1、Grok-4、AI绘画、AI PPT  | 有       | 支持国内邮箱   | ★★★★★ | 支持最新Claude 3系列，体验全能AI写作、代码和图片等多项功能                     |
+| [https://ai.lanjingai.org](https://ai.lanjingai.org) | Claude 4 Sonnet、GPT-4.0 turbo、Grok、Gemini、DeepSeek、AI读文件 | 有       | 支持国内邮箱   | ★★★★★ | 多AI模型自由切换，丰富插件体验，AI PPT功能提升效率                             |
 | [https://chat.gpt4us.org](https://chat.gpt4us.org) | Claude、GPT全系、DeepSeek R1           | 有       | 国内邮箱或免注册 | ★★★★★ | 覆盖Claude与各种GPT接口，支持深度分析需求                                       |
 ---
 
@@ -60,7 +60,7 @@ Claude中文版是由Anthropic公司研发的Claude模型的本地化适配版�
 1. **任选一个镜像站点**  
    推荐地址：
    - [https://xsimplechat.com](https://xsimplechat.com)
-   - [https://chat.lanjingai.org](https://chat.lanjingai.org)
+   - [https://ai.lanjingai.org](https://ai.lanjingai.org)
    - [https://chat.gpt4us.org](https://chat.gpt4us.org)
 
 2. **注册或免注册直接用**  
@@ -105,7 +105,7 @@ Claude中文版是由Anthropic公司研发的Claude模型的本地化适配版�
    - 目前主流镜像站均有免费额度，体验基本功能无需付费，付费套餐适合重度用户。
 
 3. **Claude 3 Opus、Sonnet都能用吗？**
-   - 支持，强烈推荐 [https://xsimplechat.com](https://xsimplechat.com) 与 [https://chat.lanjingai.org](https://chat.lanjingai.org)，均集成Claude全系列及其它AI优秀模型。
+   - 支持，强烈推荐 [https://xsimplechat.com](https://xsimplechat.com) 与 [https://ai.lanjingai.org](https://ai.lanjingai.org)，均集成Claude全系列及其它AI优秀模型。
 
 4. **Claude生成的信息是否可靠？**
    - 所有AI工具生成内容都有一定不确定性，建议重要决策自行核实，多渠道参考。
@@ -118,6 +118,6 @@ Claude中文版是由Anthropic公司研发的Claude模型的本地化适配版�
 
 | 网站名称                            | 支持内容                                     |
 |-----------------------------------|---------------------------------------------|
-| [https://xsimplechat.com](https://xsimplechat.com) | Claude 3 Opus/Sonnet/Haiku、GPT-4.5、GPT o1、GPT o3、Grok-4、Gemini 2.5 Pro、AI绘画 |
-| [https://chat.lanjingai.org](https://chat.lanjingai.org) | Claude 3 Sonnet、GPT-4.0 turbo、Grok、AI PPT、插件 |
+| [https://xsimplechat.com](https://xsimplechat.com) | Claude 4 Opus/Sonnet/Haiku、GPT-4.5、GPT o1、GPT o3、Grok-4、Gemini 2.5 Pro、AI绘画 |
+| [https://ai.lanjingai.org](https://ai.lanjingai.org) | Claude 4 Sonnet、GPT-4.0 turbo、Grok、AI PPT、插件 |
 | [https://chat.gpt4us.org](https://chat.gpt4us.org) | Claude系列、GPT全系列模型、DeepSeek R1满血版           |
